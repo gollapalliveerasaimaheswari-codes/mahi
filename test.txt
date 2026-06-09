@@ -1,0 +1,1 @@
+No laptop needed. Phone + Termux = Developer

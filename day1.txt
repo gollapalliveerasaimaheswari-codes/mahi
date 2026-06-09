@@ -1,0 +1,1 @@
+Day 1: Learned git init, config, add, commit
