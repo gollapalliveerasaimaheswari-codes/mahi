@@ -1,1 +1,0 @@
-Day 2: Learned git status, log, diff
